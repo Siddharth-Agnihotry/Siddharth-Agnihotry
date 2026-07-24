@@ -73,12 +73,6 @@ A system to manage event registrations and attendees efficiently.
 
 ---
 
-## 📈 GitHub Stats
-
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth-agnihotry\&show_icons=true\&theme=default)
-
----
-
 ## 🔗 Connect With Me
 
 * LinkedIn: https://linkedin.com/in/siddharth-agnihotry
